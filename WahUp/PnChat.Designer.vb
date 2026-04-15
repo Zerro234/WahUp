@@ -55,7 +55,7 @@ Partial Class PnChat
         Me.lblChat.MaximumSize = New System.Drawing.Size(300, 1000)
         Me.lblChat.Name = "lblChat"
         Me.lblChat.Padding = New System.Windows.Forms.Padding(5)
-        Me.lblChat.Size = New System.Drawing.Size(30, 26)
+        Me.lblChat.Size = New System.Drawing.Size(35, 31)
         Me.lblChat.TabIndex = 0
         Me.lblChat.Text = "..."
         '
@@ -69,7 +69,7 @@ Partial Class PnChat
         Me.pnMain.Location = New System.Drawing.Point(13, 13)
         Me.pnMain.Name = "pnMain"
         Me.pnMain.Padding = New System.Windows.Forms.Padding(10)
-        Me.pnMain.Size = New System.Drawing.Size(58, 48)
+        Me.pnMain.Size = New System.Drawing.Size(63, 53)
         Me.pnMain.TabIndex = 1
         '
         'pns
@@ -171,7 +171,7 @@ Partial Class PnChat
         '
         'PnChat
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 19.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSize = True
         Me.Controls.Add(Me.pnMain)
@@ -179,7 +179,7 @@ Partial Class PnChat
         Me.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.Name = "PnChat"
         Me.Padding = New System.Windows.Forms.Padding(10)
-        Me.Size = New System.Drawing.Size(398, 74)
+        Me.Size = New System.Drawing.Size(398, 79)
         Me.pnMain.ResumeLayout(False)
         Me.pnMain.PerformLayout()
         Me.pns.ResumeLayout(False)

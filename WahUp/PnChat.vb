@@ -1,5 +1,4 @@
 ﻿Public Class PnChat
-
     Private Filename_ As String = ""
     Public Property Filename As String
         Set(value As String)

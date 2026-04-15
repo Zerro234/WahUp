@@ -1,12 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\OBS\\VBNET_INF6Q\\WahUp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\OBS\\VBNET_INF6Q\\WahUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|f:\\obs\\vbnet_inf6q\\wahup\\wahup\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|solutionrelative:wahup\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|F:\\OBS\\VBNET_INF6Q\\WahUp\\wahup\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|solutionrelative:wahup\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|F:\\OBS\\VBNET_INF6Q\\WahUp\\wahup\\pnchat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|solutionrelative:wahup\\pnchat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|F:\\OBS\\VBNET_INF6Q\\WahUp\\wahup\\pnchat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A386616-2B05-48C8-A491-8E3D414422C0}|WahUp\\WahUp.vbproj|solutionrelative:wahup\\pnchat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\Form1.vb",
+              "RelativeDocumentMoniker": "WahUp\\Form1.vb",
+              "ToolTip": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\Form1.vb",
+              "RelativeToolTip": "WahUp\\Form1.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwIgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-20T16:26:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PnChat.vb",
+              "DocumentMoniker": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\PnChat.vb",
+              "RelativeDocumentMoniker": "WahUp\\PnChat.vb",
+              "ToolTip": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\PnChat.vb",
+              "RelativeToolTip": "WahUp\\PnChat.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-20T16:25:00.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PnChat.vb [Design]",
+              "DocumentMoniker": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\PnChat.vb",
+              "RelativeDocumentMoniker": "WahUp\\PnChat.vb",
+              "ToolTip": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\PnChat.vb [Design]",
+              "RelativeToolTip": "WahUp\\PnChat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-20T16:24:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\Form1.vb",
+              "RelativeDocumentMoniker": "WahUp\\Form1.vb",
+              "ToolTip": "F:\\OBS\\VBNET_INF6Q\\WahUp\\WahUp\\Form1.vb [Design]",
+              "RelativeToolTip": "WahUp\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-20T16:24:07.461Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
